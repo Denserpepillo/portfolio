@@ -1,0 +1,83 @@
+*{box-sizing: border-box;}
+
+html{
+    background: url(./pattern/oriental-tiles.png);
+}
+
+
+#head{
+    margin: 0%;
+    padding: 0%;
+    align-items: center;
+    text-align: center;
+    font-family: 'MuseoModerno', cursive;
+    background-color: #6041a8;
+    color: white;
+
+}
+
+h1{
+    text-align: center;
+    background-color: #6041a8;
+    color: white;
+}
+
+button{
+    color: aqua;
+}
+
+.slider{
+    border: 2px solid;
+    border-color: black;
+    align-items: center;
+}
+ul{
+    list-style: none;
+    justify-content: center;
+    text-align: center;
+    font-size: large;
+    color: white;
+}
+
+.taskitem{
+    justify-content: space-between;
+}
+
+.menu{
+    background-color: #6041a8;
+    color: white;
+    padding: 3%;
+    font-size: 50px;
+}
+
+.bios{
+    background-color: #6041a8;
+    color: white;
+    font-size: 20px;
+}
+
+ol{
+    margin-left: 20px;
+    margin-right: 20px;
+    display: flex;
+    list-style: none;
+    justify-content: space-between;
+    vertical-align: auto;
+
+}
+
+.descripcionjuego{
+    text-align: center;
+    background-color: #6041a8;
+    color: white;
+    font-size: 20px;
+}
+
+.list{
+    font-size: 20px;
+    text-align: center;
+}
+
+.bios{
+text-align: center;
+}
